@@ -1,0 +1,2807 @@
+VFont 2
+format 2
+cell 10 18
+grid 256 512
+
+glyph U+0020
+advance 264
+baseline 384
+bearing 0 0
+end
+
+glyph U+0021
+advance 264
+baseline 384
+bearing 158 162
+line 158 64 158 281
+arc 158 358 11 11 0 360
+end
+
+glyph U+0022
+advance 264
+baseline 384
+bearing 119 118
+line 119 64 119 182
+line 202 64 202 182
+end
+
+glyph U+0023
+advance 264
+baseline 384
+bearing 29 28
+line 264 82 239 82
+line 239 82 218 175
+line 169 82 152 82
+line 152 82 131 175
+line 58 175 131 175
+line 131 175 103 277
+line 131 175 218 175
+line 218 175 190 277
+line 218 175 292 175
+line 103 277 190 277
+line 190 277 264 277
+line 29 277 103 277
+line 103 277 81 374
+line 81 374 58 374
+line 190 277 169 374
+line 169 374 152 374
+end
+
+glyph U+0024
+advance 264
+baseline 384
+bearing 74 75
+line 163 50 163 123
+arc 153 175 66 60 -79 -274
+line 163 123 238 123
+line 238 123 238 150
+line 163 123 163 239
+arc 180 305 64 62 -101 100
+line 163 239 163 367
+arc 154 334 81 33 -171 -276
+line 163 367 163 447
+end
+
+glyph U+0025
+advance 264
+baseline 384
+bearing 50 45
+line 275 189 50 271
+line 148 317 165 317
+arc 216 314 53 54 178 538
+arc 103 145 54 54 -110 250
+end
+
+glyph U+0026
+advance 264
+baseline 384
+bearing 60 31
+arc 160 136 64 65 -32 -230
+arc 151 282 92 92 -112 -323
+line 115 192 157 237
+line 157 237 228 335
+line 259 222 259 299
+line 259 299 228 335
+arc 297 317 66 65 163 99
+end
+
+glyph U+0027
+advance 264
+baseline 384
+bearing 161 159
+line 161 64 161 182
+end
+
+glyph U+0028
+advance 264
+baseline 384
+bearing 138 105
+line 214 54 184 77
+line 184 77 148 186
+line 148 186 148 266
+line 148 266 148 353
+arc 264 352 101 101 179 122
+end
+
+glyph U+0029
+advance 264
+baseline 384
+bearing 105 143
+line 108 54 131 73
+line 131 73 172 167
+line 172 167 172 267
+line 172 267 153 375
+arc 62 362 88 88 8 56
+end
+
+glyph U+002A
+advance 264
+baseline 384
+bearing 66 65
+line 157 59 157 154
+line 68 113 157 154
+line 254 113 157 154
+line 157 154 68 203
+line 157 154 157 258
+line 157 154 254 203
+end
+
+glyph U+002B
+advance 264
+baseline 384
+bearing 47 46
+line 158 132 158 247
+line 158 247 47 247
+line 158 247 274 247
+line 158 247 158 359
+end
+
+glyph U+002C
+advance 264
+baseline 384
+bearing 116 131
+line 189 350 160 350
+arc 27 350 130 130 1 44
+end
+
+glyph U+002D
+advance 264
+baseline 384
+bearing 105 104
+line 105 264 216 264
+end
+
+glyph U+002E
+advance 264
+baseline 384
+bearing 161 159
+arc 161 349 11 11 0 360
+end
+
+glyph U+002F
+advance 264
+baseline 384
+bearing 52 63
+line 257 67 227 88
+line 227 88 70 418
+line 70 418 52 418
+end
+
+glyph U+0030
+advance 264
+baseline 384
+bearing 76 79
+arc 160 223 11 11 0 360
+arc 159 224 84 154 -96 264
+end
+
+glyph U+0031
+advance 264
+baseline 384
+bearing 87 58
+arc 157 114 69 30 172 279
+line 173 84 173 144
+line 173 144 173 363
+line 173 363 87 363
+line 173 363 262 363
+end
+
+glyph U+0032
+advance 264
+baseline 384
+bearing 61 65
+arc 143 134 83 60 -168 12
+line 227 148 254 148
+line 227 148 207 210
+line 207 210 94 341
+line 94 341 94 364
+line 94 364 61 364
+line 94 364 254 364
+end
+
+glyph U+0033
+advance 264
+baseline 384
+bearing 58 84
+arc 141 143 89 70 -148 64
+line 111 210 182 210
+arc 139 292 100 81 -67 147
+end
+
+glyph U+0034
+advance 264
+baseline 384
+bearing 69 49
+line 204 88 165 111
+line 165 111 75 283
+arc 77 280 9 9 -146 -290
+line 75 283 204 283
+line 204 283 204 88
+line 204 283 271 283
+line 204 283 204 383
+end
+
+glyph U+0035
+advance 264
+baseline 384
+bearing 65 86
+line 234 87 92 87
+line 92 87 92 193
+line 92 193 69 223
+arc 137 281 100 93 -115 139
+end
+
+glyph U+0036
+advance 264
+baseline 384
+bearing 76 79
+arc 176 162 88 88 -42 -160
+line 81 132 81 219
+line 81 219 81 237
+arc 163 282 82 93 -154 206
+end
+
+glyph U+0037
+advance 264
+baseline 384
+bearing 57 60
+line 260 82 227 82
+line 57 82 227 82
+line 227 82 203 172
+line 203 172 121 376
+line 121 376 101 376
+end
+
+glyph U+0038
+advance 264
+baseline 384
+bearing 64 79
+line 64 140 85 140
+arc 159 143 74 70 -178 73
+arc 151 148 64 63 -173 -256
+line 135 214 182 214
+arc 159 296 83 79 -95 -455
+end
+
+glyph U+0039
+advance 264
+baseline 384
+bearing 74 82
+arc 155 167 82 93 26 -334
+arc 141 255 99 118 -20 128
+end
+
+glyph U+003A
+advance 264
+baseline 384
+bearing 161 159
+arc 161 186 11 11 0 360
+arc 161 349 11 11 0 360
+end
+
+glyph U+003B
+advance 264
+baseline 384
+bearing 116 131
+arc 161 186 11 11 0 360
+line 189 350 160 350
+arc 27 350 130 130 1 44
+end
+
+glyph U+003C
+advance 264
+baseline 384
+bearing 47 47
+line 266 143 244 170
+line 244 170 76 243
+line 47 243 76 243
+line 76 243 99 267
+line 99 267 266 335
+line 266 335 266 353
+end
+
+glyph U+003D
+advance 264
+baseline 384
+bearing 47 46
+line 47 205 274 205
+line 47 291 274 291
+end
+
+glyph U+003E
+advance 264
+baseline 384
+bearing 53 46
+line 62 143 62 168
+line 70 168 244 242
+line 244 242 274 242
+line 244 242 223 265
+line 223 265 54 337
+line 54 337 54 351
+end
+
+glyph U+003F
+advance 264
+baseline 384
+bearing 81 93
+arc 154 129 74 55 -173 24
+line 223 152 174 214
+arc 258 275 104 104 -144 -192
+arc 154 355 11 11 0 360
+end
+
+glyph U+0040
+advance 264
+baseline 384
+bearing 49 57
+arc 158 191 96 74 0 -175
+line 63 184 62 358
+arc 185 292 142 133 150 71
+arc 203 267 74 74 -45 -314
+line 254 216 254 319
+line 254 319 254 356
+line 254 216 254 191
+end
+
+glyph U+0041
+advance 264
+baseline 384
+bearing 38 37
+line 92 282 148 89
+line 148 89 172 89
+line 172 89 225 282
+line 92 282 225 282
+line 92 282 57 375
+line 57 375 38 375
+line 225 282 263 375
+line 263 375 283 375
+end
+
+glyph U+0042
+advance 264
+baseline 384
+bearing 83 60
+arc 196 136 38 47 11 -72
+line 223 88 126 88
+line 126 88 83 88
+line 83 88 83 213
+line 223 145 260 145
+line 223 145 223 189
+line 223 189 193 213
+line 193 213 83 213
+arc 167 294 82 82 -73 43
+line 223 360 144 360
+line 144 360 83 360
+line 83 360 83 213
+end
+
+glyph U+0043
+advance 264
+baseline 384
+bearing 81 63
+arc 185 168 94 94 -35 -164
+line 88 142 88 232
+line 88 232 88 317
+arc 185 275 97 97 154 41
+end
+
+glyph U+0044
+advance 264
+baseline 384
+bearing 76 79
+arc 126 139 98 57 -111 -3
+line 233 136 233 227
+arc 144 252 95 114 -12 105
+line 116 364 82 364
+line 82 364 82 84
+end
+
+glyph U+0045
+advance 264
+baseline 384
+bearing 90 55
+line 259 87 92 87
+line 92 87 92 211
+line 92 211 259 211
+line 92 211 92 366
+line 92 366 259 366
+end
+
+glyph U+0046
+advance 264
+baseline 384
+bearing 97 54
+line 259 87 97 87
+line 97 87 97 211
+line 97 211 259 211
+line 97 211 97 383
+end
+
+glyph U+0047
+advance 264
+baseline 384
+bearing 74 68
+arc 177 165 92 92 -30 -165
+line 79 141 79 237
+arc 178 258 105 115 -167 -303
+line 238 356 238 273
+line 238 273 238 237
+line 238 237 178 237
+end
+
+glyph U+0048
+advance 264
+baseline 384
+bearing 76 79
+line 241 64 241 210
+line 76 64 76 210
+line 241 210 76 210
+line 241 210 241 383
+line 76 210 76 383
+end
+
+glyph U+0049
+advance 264
+baseline 384
+bearing 70 72
+line 70 83 158 83
+line 158 83 248 83
+line 158 83 158 365
+line 158 365 70 365
+line 158 365 248 365
+end
+
+glyph U+004A
+advance 264
+baseline 384
+bearing 53 111
+line 107 87 207 87
+line 207 87 207 326
+arc 129 335 73 36 -10 194
+end
+
+glyph U+004B
+advance 264
+baseline 384
+bearing 76 31
+line 287 64 233 93
+line 233 93 145 200
+line 79 64 79 230
+line 145 200 79 230
+line 145 200 261 379
+line 261 379 287 379
+line 79 230 79 379
+end
+
+glyph U+004C
+advance 264
+baseline 384
+bearing 94 49
+line 98 64 98 366
+line 98 366 271 366
+end
+
+glyph U+004D
+advance 264
+baseline 384
+bearing 67 70
+line 246 383 246 89
+line 246 89 213 108
+line 213 108 164 234
+line 164 234 144 234
+line 144 234 91 89
+line 91 89 67 89
+line 67 89 67 383
+end
+
+glyph U+004E
+advance 264
+baseline 384
+bearing 76 79
+line 81 64 81 105
+line 237 64 237 351
+line 237 351 200 327
+line 200 327 108 105
+line 108 105 81 105
+line 81 105 81 138
+line 81 138 81 383
+end
+
+glyph U+004F
+advance 264
+baseline 384
+bearing 76 75
+arc 159 224 87 155 -99 261
+end
+
+glyph U+0050
+advance 264
+baseline 384
+bearing 90 70
+line 94 85 210 85
+arc 170 159 79 79 -60 101
+line 152 236 94 236
+line 94 236 94 85
+line 94 236 94 383
+end
+
+glyph U+0051
+advance 264
+baseline 384
+bearing 76 72
+arc 159 224 87 155 70 -290
+arc 238 351 51 69 162 82
+end
+
+glyph U+0052
+advance 264
+baseline 384
+bearing 78 29
+line 81 229 81 87
+line 81 87 194 87
+line 194 87 234 128
+arc 164 158 68 68 -25 77
+line 81 229 179 229
+line 81 229 81 383
+line 179 229 234 323
+arc 284 146 67 233 132 86
+end
+
+glyph U+0053
+advance 264
+baseline 384
+bearing 67 77
+arc 167 148 90 75 -26 -215
+line 93 191 166 221
+arc 166 298 76 76 -90 63
+arc 150 338 83 32 54 190
+end
+
+glyph U+0054
+advance 264
+baseline 384
+bearing 38 37
+line 38 83 158 83
+line 158 83 283 83
+line 158 83 158 383
+end
+
+glyph U+0055
+advance 264
+baseline 384
+bearing 78 82
+line 235 64 235 333
+arc 160 332 70 39 -8 170
+line 82 333 82 246
+line 82 246 82 64
+end
+
+glyph U+0056
+advance 264
+baseline 384
+bearing 43 42
+line 278 77 251 77
+line 251 77 169 358
+line 169 358 143 358
+line 143 358 62 77
+line 62 77 43 77
+end
+
+glyph U+0057
+advance 264
+baseline 384
+bearing 30 31
+line 30 81 53 81
+line 53 81 96 339
+line 289 81 268 81
+line 268 81 225 339
+line 225 339 200 314
+line 200 314 166 182
+line 166 182 145 182
+line 145 182 96 339
+line 225 339 225 383
+line 96 339 96 383
+end
+
+glyph U+0058
+advance 264
+baseline 384
+bearing 33 34
+line 50 67 84 88
+line 84 88 162 206
+line 277 67 243 88
+line 243 88 162 206
+line 162 206 162 223
+line 162 223 205 281
+line 205 281 277 377
+line 162 223 50 377
+line 50 377 33 377
+end
+
+glyph U+0059
+advance 264
+baseline 384
+bearing 38 37
+line 38 67 74 89
+line 74 89 160 220
+line 283 67 246 89
+line 246 89 160 220
+line 160 220 160 383
+end
+
+glyph U+005A
+advance 264
+baseline 384
+bearing 61 42
+line 63 84 243 84
+line 276 84 243 84
+line 243 84 220 143
+line 220 143 89 360
+line 63 360 89 360
+line 89 360 276 360
+end
+
+glyph U+005B
+advance 264
+baseline 384
+bearing 147 101
+line 219 70 150 70
+line 150 70 150 426
+line 150 426 219 426
+end
+
+glyph U+005C
+advance 264
+baseline 384
+bearing 52 63
+line 52 67 83 91
+line 83 91 240 417
+line 240 417 257 417
+end
+
+glyph U+005D
+advance 264
+baseline 384
+bearing 102 148
+line 102 70 169 70
+line 169 70 169 424
+line 169 424 102 424
+end
+
+glyph U+005E
+advance 264
+baseline 384
+bearing 47 45
+line 47 180 82 160
+line 82 160 156 84
+line 156 84 193 107
+line 193 107 265 180
+end
+
+glyph U+005F
+advance 264
+baseline 384
+bearing 28 28
+line 28 479 292 479
+end
+
+glyph U+0060
+advance 264
+baseline 384
+bearing 91 131
+line 91 35 129 58
+arc 223 23 97 97 159 113
+end
+
+glyph U+0061
+advance 264
+baseline 384
+bearing 76 89
+arc 150 216 84 63 -159 23
+line 230 246 111 246
+arc 147 312 75 61 -118 -342
+line 230 246 230 333
+line 230 333 230 383
+end
+
+glyph U+0062
+advance 264
+baseline 384
+bearing 90 75
+line 91 50 91 191
+line 91 191 172 153
+arc 166 263 81 112 -86 145
+line 91 191 91 335
+line 91 335 91 383
+end
+
+glyph U+0063
+advance 264
+baseline 384
+bearing 90 66
+arc 185 264 96 112 -40 -318
+end
+
+glyph U+0064
+advance 264
+baseline 384
+bearing 74 91
+line 228 50 228 195
+line 228 195 163 156
+arc 147 253 72 99 -77 -155
+line 80 210 80 285
+arc 152 299 75 73 -169 -333
+line 228 195 228 335
+line 228 335 228 383
+end
+
+glyph U+0065
+advance 264
+baseline 384
+bearing 74 68
+arc 170 233 73 79 -92 12
+line 249 257 219 257
+line 219 257 81 257
+line 81 257 81 208
+arc 175 221 90 68 -169 -96
+line 81 257 81 335
+arc 176 326 84 46 177 19
+end
+
+glyph U+0066
+advance 264
+baseline 384
+bearing 70 65
+line 255 70 178 70
+arc 180 129 27 56 -93 -204
+line 154 157 70 157
+line 154 157 255 157
+line 154 157 154 383
+end
+
+glyph U+0067
+advance 264
+baseline 384
+bearing 74 91
+line 225 144 225 191
+arc 219 144 43 43 78 166
+arc 148 257 75 104 -75 -154
+line 88 211 88 292
+line 88 292 88 344
+arc 151 289 78 78 133 28
+line 225 191 225 328
+line 225 328 225 428
+line 225 428 180 455
+line 180 455 88 455
+line 88 455 88 428
+end
+
+glyph U+0068
+advance 264
+baseline 384
+bearing 90 89
+line 90 50 90 191
+arc 170 233 77 77 -156 -43
+line 229 191 229 268
+line 229 268 229 383
+line 90 191 90 383
+end
+
+glyph U+0069
+advance 264
+baseline 384
+bearing 66 58
+arc 163 76 11 11 0 360
+line 82 161 162 161
+line 162 161 162 366
+line 162 366 262 366
+line 162 366 66 366
+end
+
+glyph U+006A
+advance 264
+baseline 384
+bearing 69 146
+line 173 65 173 88
+line 89 161 173 161
+line 173 161 173 427
+arc 94 434 73 25 -15 107
+end
+
+glyph U+006B
+advance 264
+baseline 384
+bearing 99 36
+line 99 50 99 264
+line 265 145 226 164
+line 226 164 159 239
+line 159 239 99 264
+line 159 239 265 380
+line 265 380 284 380
+line 99 264 99 380
+end
+
+glyph U+006C
+advance 264
+baseline 384
+bearing 61 72
+line 61 67 145 67
+line 145 67 145 333
+arc 216 340 64 27 -165 -294
+end
+
+glyph U+006D
+advance 264
+baseline 384
+bearing 67 66
+line 69 144 69 183
+arc 119 223 53 68 -146 -40
+line 69 183 69 383
+arc 215 218 61 61 -149 -68
+line 248 164 248 225
+line 248 225 248 383
+line 158 183 158 383
+end
+
+glyph U+006E
+advance 264
+baseline 384
+bearing 90 89
+line 90 144 90 191
+arc 170 233 77 77 -156 -43
+line 229 191 229 268
+line 229 268 229 383
+line 90 191 90 383
+end
+
+glyph U+006F
+advance 264
+baseline 384
+bearing 76 79
+arc 159 264 84 113 -93 267
+end
+
+glyph U+0070
+advance 264
+baseline 384
+bearing 87 77
+line 92 144 92 191
+arc 166 214 70 59 -160 1
+arc 166 270 80 105 -31 144
+line 92 191 92 337
+line 92 337 92 475
+end
+
+glyph U+0071
+advance 264
+baseline 384
+bearing 76 89
+line 230 144 230 193
+arc 157 264 83 109 -36 -322
+line 230 193 230 337
+line 230 337 230 475
+end
+
+glyph U+0072
+advance 264
+baseline 384
+bearing 124 47
+line 127 144 127 204
+arc 216 237 81 81 -39 -159
+line 127 204 127 383
+end
+
+glyph U+0073
+advance 264
+baseline 384
+bearing 75 86
+arc 165 209 79 60 -8 -213
+line 99 242 211 280
+arc 148 318 82 56 -41 155
+end
+
+glyph U+0074
+advance 264
+baseline 384
+bearing 57 72
+line 141 76 141 158
+line 141 158 57 158
+line 141 158 246 158
+line 141 158 141 341
+arc 213 348 67 19 -160 -296
+end
+
+glyph U+0075
+advance 264
+baseline 384
+bearing 90 89
+line 92 144 92 335
+arc 153 291 78 78 139 29
+line 230 144 230 335
+line 230 335 230 383
+end
+
+glyph U+0076
+advance 264
+baseline 384
+bearing 52 51
+line 258 155 242 155
+line 242 155 169 355
+line 169 355 143 355
+line 143 355 69 155
+line 69 155 52 155
+end
+
+glyph U+0077
+advance 264
+baseline 384
+bearing 29 29
+line 291 160 264 160
+line 264 160 214 354
+line 29 160 52 160
+line 52 160 102 354
+line 158 215 158 241
+line 158 241 140 265
+arc 25 280 112 112 -6 43
+line 158 241 176 265
+line 176 265 214 354
+line 102 354 102 383
+line 214 354 214 383
+end
+
+glyph U+0078
+advance 264
+baseline 384
+bearing 47 47
+line 51 147 95 168
+line 95 168 161 253
+line 263 147 227 168
+line 227 168 161 253
+line 161 253 161 269
+line 161 269 95 342
+arc 43 322 57 57 20 82
+line 161 269 263 377
+end
+
+glyph U+0079
+advance 264
+baseline 384
+bearing 55 46
+line 274 150 244 171
+line 244 171 159 351
+line 69 150 69 171
+line 69 171 159 351
+line 159 351 159 428
+line 159 428 114 456
+line 114 456 69 456
+end
+
+glyph U+007A
+advance 264
+baseline 384
+bearing 70 69
+line 74 164 226 164
+line 226 164 200 213
+line 200 213 98 347
+line 98 347 98 364
+line 98 364 74 364
+line 98 364 251 364
+end
+
+glyph U+007B
+advance 264
+baseline 384
+bearing 75 77
+arc 219 143 77 77 -72 -129
+line 157 84 157 157
+line 157 157 157 226
+line 157 226 122 253
+line 75 253 122 253
+line 122 253 157 291
+line 157 291 157 418
+arc 224 418 53 22 179 73
+end
+
+glyph U+007C
+advance 264
+baseline 384
+bearing 161 159
+line 161 48 161 487
+end
+
+glyph U+007D
+advance 264
+baseline 384
+bearing 75 77
+line 76 72 137 72
+line 137 72 160 114
+line 160 114 160 222
+line 160 222 195 253
+line 195 253 243 253
+line 195 253 160 299
+line 160 299 160 411
+arc 95 415 55 26 -9 108
+end
+
+glyph U+007E
+advance 264
+baseline 384
+bearing 49 52
+arc 221 227 47 29 -8 96
+line 216 257 137 238
+arc 111 275 61 42 -64 -177
+end
+
+glyph U+00AB
+advance 264
+baseline 384
+bearing 55 73
+line 152 161 127 198
+line 127 198 76 255
+line 246 161 226 198
+line 226 198 174 255
+line 55 255 76 255
+line 76 255 127 305
+arc 91 359 62 62 -60 -8
+line 152 255 174 255
+line 174 255 246 347
+end
+
+glyph U+00B0
+advance 264
+baseline 384
+bearing 106 92
+arc 159 126 54 54 1 -359
+line 211 127 228 127
+end
+
+glyph U+00B1
+advance 264
+baseline 384
+bearing 47 46
+line 158 132 158 219
+line 158 219 47 219
+line 158 219 274 219
+line 158 219 158 310
+line 47 367 274 367
+end
+
+glyph U+00B2
+advance 264
+baseline 384
+bearing 98 101
+arc 147 107 53 39 -161 25
+line 196 123 143 190
+line 143 190 122 224
+line 122 224 98 224
+line 122 224 219 224
+end
+
+glyph U+00B5
+advance 264
+baseline 384
+bearing 85 43
+line 89 144 89 345
+line 231 144 231 345
+arc 169 302 66 66 29 92
+arc 257 337 24 33 180 31
+arc 158 290 78 78 144 86
+line 89 345 89 475
+line 165 369 165 391
+end
+
+glyph U+00B7
+advance 264
+baseline 384
+bearing 161 159
+arc 161 230 11 11 0 360
+end
+
+glyph U+00BB
+advance 264
+baseline 384
+bearing 71 54
+line 71 160 102 203
+line 102 203 145 255
+line 170 160 191 203
+line 191 203 245 255
+line 145 255 170 255
+line 145 255 117 291
+arc 155 371 87 87 -116 -165
+line 245 255 266 255
+line 245 255 170 347
+end
+
+glyph U+00D7
+advance 264
+baseline 384
+bearing 85 61
+line 88 146 88 179
+line 88 179 158 247
+line 259 179 231 179
+line 231 179 158 247
+line 158 247 231 328
+line 231 328 231 346
+line 158 247 88 328
+line 88 328 88 346
+end
+
+glyph U+00F7
+advance 264
+baseline 384
+bearing 47 46
+arc 158 168 11 11 0 360
+line 47 248 274 248
+arc 159 326 11 11 0 360
+end
+
+glyph U+0391
+advance 264
+baseline 384
+bearing 38 37
+line 92 282 148 89
+line 148 89 172 89
+line 172 89 225 282
+line 92 282 225 282
+line 92 282 57 375
+line 57 375 38 375
+line 225 282 263 375
+line 263 375 283 375
+end
+
+glyph U+0392
+advance 264
+baseline 384
+bearing 83 60
+arc 196 136 38 47 11 -72
+line 223 88 126 88
+line 126 88 83 88
+line 83 88 83 213
+line 223 145 260 145
+line 223 145 223 189
+line 223 189 193 213
+line 193 213 83 213
+arc 167 294 82 82 -73 43
+line 223 360 144 360
+line 144 360 83 360
+line 83 360 83 213
+end
+
+glyph U+0393
+advance 264
+baseline 384
+bearing 94 49
+line 271 87 96 87
+line 96 87 96 383
+end
+
+glyph U+0394
+advance 264
+baseline 384
+bearing 38 37
+line 247 368 203 193
+line 203 193 169 90
+line 169 90 143 90
+line 143 90 69 368
+line 247 368 283 368
+line 247 368 69 368
+line 69 368 38 368
+end
+
+glyph U+0395
+advance 264
+baseline 384
+bearing 90 55
+line 259 87 92 87
+line 92 87 92 211
+line 92 211 259 211
+line 92 211 92 366
+line 92 366 259 366
+end
+
+glyph U+0396
+advance 264
+baseline 384
+bearing 61 42
+line 63 84 243 84
+line 276 84 243 84
+line 243 84 220 143
+line 220 143 89 360
+line 63 360 89 360
+line 89 360 276 360
+end
+
+glyph U+0397
+advance 264
+baseline 384
+bearing 76 79
+line 241 64 241 210
+line 76 64 76 210
+line 241 210 76 210
+line 241 210 241 383
+line 76 210 76 383
+end
+
+glyph U+0398
+advance 264
+baseline 384
+bearing 76 75
+line 119 211 202 211
+arc 159 224 87 155 -99 261
+end
+
+glyph U+0399
+advance 264
+baseline 384
+bearing 70 72
+line 70 83 158 83
+line 158 83 248 83
+line 158 83 158 365
+line 158 365 70 365
+line 158 365 248 365
+end
+
+glyph U+039A
+advance 264
+baseline 384
+bearing 76 31
+line 287 64 233 93
+line 233 93 145 200
+line 79 64 79 230
+line 145 200 79 230
+line 145 200 261 379
+line 261 379 287 379
+line 79 230 79 379
+end
+
+glyph U+039B
+advance 264
+baseline 384
+bearing 38 37
+line 38 372 65 372
+line 65 372 149 89
+line 149 89 173 89
+line 173 89 261 372
+line 261 372 283 372
+end
+
+glyph U+039C
+advance 264
+baseline 384
+bearing 67 70
+line 246 383 246 89
+line 246 89 213 108
+line 213 108 164 234
+line 164 234 144 234
+line 144 234 91 89
+line 91 89 67 89
+line 67 89 67 383
+end
+
+glyph U+039D
+advance 264
+baseline 384
+bearing 76 79
+line 81 64 81 105
+line 237 64 237 351
+line 237 351 200 327
+line 200 327 108 105
+line 108 105 81 105
+line 81 105 81 138
+line 81 138 81 383
+end
+
+glyph U+039E
+advance 264
+baseline 384
+bearing 57 58
+line 57 83 262 83
+line 101 211 219 211
+line 57 367 262 367
+end
+
+glyph U+039F
+advance 264
+baseline 384
+bearing 76 75
+arc 159 224 87 155 -99 261
+end
+
+glyph U+03A0
+advance 264
+baseline 384
+bearing 76 79
+line 80 383 80 86
+line 80 86 239 86
+line 239 86 239 383
+end
+
+glyph U+03A1
+advance 264
+baseline 384
+bearing 90 70
+line 94 85 210 85
+arc 170 159 79 79 -60 101
+line 152 236 94 236
+line 94 236 94 85
+line 94 236 94 383
+end
+
+glyph U+03A3
+advance 264
+baseline 384
+bearing 78 49
+line 271 86 82 86
+line 82 86 109 141
+line 109 141 165 223
+line 196 223 165 223
+line 165 223 82 347
+line 82 347 82 366
+line 82 366 271 366
+end
+
+glyph U+03A4
+advance 264
+baseline 384
+bearing 38 37
+line 38 83 158 83
+line 158 83 283 83
+line 158 83 158 383
+end
+
+glyph U+03A5
+advance 264
+baseline 384
+bearing 38 37
+line 38 67 74 89
+line 74 89 160 220
+line 283 67 246 89
+line 246 89 160 220
+line 160 220 160 383
+end
+
+glyph U+03A6
+advance 264
+baseline 384
+bearing 76 79
+line 107 83 159 83
+line 159 83 211 83
+line 159 83 159 144
+arc 152 224 80 80 -86 -273
+arc 181 224 63 80 -110 107
+line 159 144 159 302
+line 159 302 159 365
+line 159 365 107 365
+line 159 365 211 365
+end
+
+glyph U+03A7
+advance 264
+baseline 384
+bearing 33 34
+line 50 67 84 88
+line 84 88 162 206
+line 277 67 243 88
+line 243 88 162 206
+line 162 206 162 223
+line 162 223 205 281
+line 205 281 277 377
+line 162 223 50 377
+line 50 377 33 377
+end
+
+glyph U+03A8
+advance 264
+baseline 384
+bearing 71 75
+line 239 64 239 222
+arc 172 221 60 60 1 100
+line 76 64 76 193
+arc 144 195 64 85 -178 -280
+line 158 64 158 281
+line 158 281 158 365
+line 158 365 107 365
+line 158 365 211 365
+end
+
+glyph U+03A9
+advance 264
+baseline 384
+bearing 43 45
+arc 159 222 92 139 99 459
+line 113 363 143 363
+line 113 363 43 363
+line 206 363 178 363
+line 206 363 275 363
+end
+
+glyph U+03B1
+advance 264
+baseline 384
+bearing 62 42
+arc 277 203 50 50 -99 -199
+arc 135 263 73 110 -2 -362
+line 213 226 213 319
+arc 263 295 53 73 162 77
+end
+
+glyph U+03B2
+advance 264
+baseline 384
+bearing 81 75
+arc 152 139 74 74 60 -150
+line 85 102 85 194
+line 85 194 85 346
+line 193 211 128 211
+arc 161 290 88 78 -71 139
+line 85 346 85 475
+end
+
+glyph U+03B3
+advance 264
+baseline 384
+bearing 34 52
+line 268 147 241 170
+line 241 170 159 348
+line 34 170 79 170
+line 79 170 159 348
+line 159 348 159 475
+end
+
+glyph U+03B4
+advance 264
+baseline 384
+bearing 73 79
+arc 168 149 86 86 -43 -149
+line 99 110 73 110
+line 99 110 117 154
+arc 159 263 84 113 -117 243
+end
+
+glyph U+03B5
+advance 264
+baseline 384
+bearing 65 68
+line 249 182 221 161
+line 221 161 129 161
+arc 137 208 47 47 -106 -166
+arc 206 205 113 57 -175 -231
+line 129 252 205 252
+arc 149 325 67 67 -102 -168
+arc 137 307 55 58 173 102
+line 129 365 221 365
+arc 225 337 27 31 102 14
+end
+
+glyph U+03B6
+advance 264
+baseline 384
+bearing 69 65
+line 69 74 194 74
+line 255 74 194 74
+line 194 74 194 111
+line 194 111 116 180
+arc 152 263 73 102 -126 -246
+line 116 364 194 364
+arc 189 418 44 46 -94 83
+end
+
+glyph U+03B7
+advance 264
+baseline 384
+bearing 90 89
+line 90 144 90 191
+arc 169 232 76 76 -157 -41
+line 229 191 229 269
+line 229 269 229 475
+line 90 191 90 383
+end
+
+glyph U+03B8
+advance 264
+baseline 384
+bearing 76 79
+line 237 224 237 139
+arc 160 155 70 76 -12 -152
+line 98 119 79 188
+line 79 188 79 224
+line 237 224 79 224
+line 237 224 237 309
+arc 160 308 68 63 1 158
+line 98 332 79 262
+line 79 262 79 224
+end
+
+glyph U+03B9
+advance 264
+baseline 384
+bearing 96 83
+line 96 163 157 163
+line 157 163 157 337
+arc 220 341 54 26 -171 -288
+end
+
+glyph U+03BA
+advance 264
+baseline 384
+bearing 99 38
+line 271 145 216 172
+line 216 172 159 243
+line 99 145 99 262
+line 159 243 99 262
+line 159 243 271 379
+line 99 262 99 379
+end
+
+glyph U+03BB
+advance 264
+baseline 384
+bearing 46 45
+arc 99 186 68 120 -108 -1
+line 167 185 190 211
+line 190 211 256 378
+line 256 378 275 378
+line 167 185 145 211
+line 145 211 58 378
+end
+
+glyph U+03BC
+advance 264
+baseline 384
+bearing 85 43
+line 89 144 89 345
+line 231 144 231 345
+arc 169 302 66 66 29 92
+arc 257 337 24 33 180 31
+arc 158 290 78 78 144 86
+line 89 345 89 475
+line 165 369 165 391
+end
+
+glyph U+03BD
+advance 264
+baseline 384
+bearing 55 58
+arc 196 255 45 107 -95 -15
+line 55 150 80 169
+line 80 169 143 355
+line 143 355 179 355
+line 179 355 239 259
+line 239 259 239 228
+line 239 228 262 228
+end
+
+glyph U+03BE
+advance 264
+baseline 384
+bearing 78 60
+line 78 72 147 72
+line 246 72 147 72
+arc 236 145 145 80 -127 -236
+line 223 215 147 215
+arc 189 296 108 79 -109 -228
+line 115 363 197 363
+arc 204 402 39 39 -99 1
+arc 199 408 44 44 -6 79
+end
+
+glyph U+03BF
+advance 264
+baseline 384
+bearing 76 79
+arc 159 264 84 113 -93 267
+end
+
+glyph U+03C0
+advance 264
+baseline 384
+bearing 46 40
+line 46 163 92 163
+line 92 163 226 163
+line 92 163 92 373
+line 226 163 277 163
+line 226 163 226 373
+arc 262 363 30 12 -178 -299
+end
+
+glyph U+03C1
+advance 264
+baseline 384
+bearing 87 77
+arc 165 264 81 112 144 504
+line 90 337 90 475
+end
+
+glyph U+03C2
+advance 264
+baseline 384
+bearing 90 66
+arc 186 265 97 113 -41 -289
+arc 183 417 48 49 -37 77
+end
+
+glyph U+03C3
+advance 264
+baseline 384
+bearing 76 51
+line 269 166 199 166
+arc 158 269 82 108 -62 -422
+end
+
+glyph U+03C4
+advance 264
+baseline 384
+bearing 61 63
+line 61 163 160 163
+line 160 163 257 163
+line 160 163 160 339
+arc 218 343 52 24 -171 -287
+end
+
+glyph U+03C5
+advance 264
+baseline 384
+bearing 38 70
+arc 207 267 44 119 -100 -16
+line 250 235 228 325
+arc 161 292 75 75 26 130
+line 103 348 103 257
+line 103 257 103 160
+line 103 160 38 160
+end
+
+glyph U+03C6
+advance 264
+baseline 384
+bearing 65 68
+arc 84 157 30 30 -19 98
+line 71 204 71 278
+arc 140 287 73 85 -174 -284
+arc 192 228 55 69 -88 -15
+line 247 204 247 306
+arc 180 302 68 68 3 96
+line 165 368 165 173
+line 165 173 194 159
+line 165 368 165 475
+end
+
+glyph U+03C7
+advance 264
+baseline 384
+bearing 47 46
+line 267 147 227 169
+line 227 169 165 275
+line 47 169 100 169
+line 100 169 138 275
+line 138 275 165 275
+line 165 275 165 337
+line 165 337 138 366
+line 138 366 76 464
+line 165 337 165 366
+arc 250 317 71 142 161 74
+end
+
+glyph U+03C8
+advance 264
+baseline 384
+bearing 76 79
+line 79 144 79 324
+arc 143 288 65 81 159 79
+line 157 144 157 370
+line 236 144 236 324
+line 236 324 193 370
+line 193 370 157 370
+line 157 370 157 475
+end
+
+glyph U+03C9
+advance 264
+baseline 384
+bearing 62 66
+line 111 145 81 169
+line 81 169 62 279
+arc 111 300 48 72 -164 -332
+arc 213 205 33 57 -95 -4
+line 249 201 249 279
+line 249 279 249 350
+arc 210 219 71 153 62 132
+line 159 233 159 336
+end
+
+glyph U+0401
+advance 264
+baseline 384
+bearing 90 55
+arc 129 6 11 11 0 360
+arc 211 6 11 11 0 360
+line 259 86 91 86
+line 91 86 91 214
+line 91 214 259 214
+line 91 214 91 363
+line 91 363 259 363
+end
+
+glyph U+0410
+advance 264
+baseline 384
+bearing 38 37
+line 92 282 148 89
+line 148 89 172 89
+line 172 89 225 282
+line 92 282 225 282
+line 92 282 57 375
+line 57 375 38 375
+line 225 282 263 375
+line 263 375 283 375
+end
+
+glyph U+0411
+advance 264
+baseline 384
+bearing 83 63
+line 257 86 85 86
+line 85 86 85 214
+line 103 214 200 214
+arc 175 290 75 75 -70 103
+line 155 364 85 364
+line 85 364 85 214
+line 85 214 103 214
+end
+
+glyph U+0412
+advance 264
+baseline 384
+bearing 83 60
+arc 196 136 38 47 11 -72
+line 223 88 126 88
+line 126 88 83 88
+line 83 88 83 213
+line 223 145 260 145
+line 223 145 223 189
+line 223 189 193 213
+line 193 213 83 213
+arc 167 294 82 82 -73 43
+line 223 360 144 360
+line 144 360 83 360
+line 83 360 83 213
+end
+
+glyph U+0413
+advance 264
+baseline 384
+bearing 94 49
+line 271 87 96 87
+line 96 87 96 383
+end
+
+glyph U+0414
+advance 264
+baseline 384
+bearing 51 54
+line 95 362 95 104
+line 95 104 95 86
+line 95 86 238 86
+line 238 86 238 362
+arc 69 411 20 54 -52 -218
+line 95 362 238 362
+arc 227 407 46 46 -76 47
+end
+
+glyph U+0415
+advance 264
+baseline 384
+bearing 90 55
+line 259 87 92 87
+line 92 87 92 211
+line 92 211 259 211
+line 92 211 92 366
+line 92 366 259 366
+end
+
+glyph U+0416
+advance 264
+baseline 384
+bearing 34 33
+line 285 67 251 90
+line 251 90 197 218
+line 43 67 69 90
+line 69 90 119 200
+line 119 200 119 218
+line 158 67 158 218
+line 119 218 158 218
+line 119 218 97 250
+line 97 250 43 377
+line 197 218 158 218
+line 197 218 221 250
+line 221 250 268 377
+line 268 377 285 377
+line 158 218 158 377
+end
+
+glyph U+0417
+advance 264
+baseline 384
+bearing 58 84
+arc 141 143 89 70 -148 64
+line 111 210 182 210
+arc 139 292 100 81 -67 147
+end
+
+glyph U+0418
+advance 264
+baseline 384
+bearing 76 79
+line 80 64 80 383
+line 79 353 113 353
+line 113 353 212 103
+line 212 103 240 103
+line 240 64 240 383
+end
+
+glyph U+0419
+advance 264
+baseline 384
+bearing 76 79
+arc 160 -34 70 66 149 32
+line 80 64 80 384
+line 80 351 112 351
+line 112 351 220 103
+line 220 103 240 103
+line 240 65 240 383
+end
+
+glyph U+041A
+advance 264
+baseline 384
+bearing 76 31
+line 287 64 233 93
+line 233 93 145 200
+line 79 64 79 230
+line 145 200 79 230
+line 145 200 261 379
+line 261 379 287 379
+line 79 230 79 379
+end
+
+glyph U+041B
+advance 264
+baseline 384
+bearing 39 79
+line 236 379 236 86
+line 236 86 107 86
+line 107 86 107 316
+arc 37 316 62 51 0 88
+end
+
+glyph U+041C
+advance 264
+baseline 384
+bearing 67 70
+line 246 383 246 89
+line 246 89 213 108
+line 213 108 164 234
+line 164 234 144 234
+line 144 234 91 89
+line 91 89 67 89
+line 67 89 67 383
+end
+
+glyph U+041D
+advance 264
+baseline 384
+bearing 76 79
+line 241 64 241 210
+line 76 64 76 210
+line 241 210 76 210
+line 241 210 241 383
+line 76 210 76 383
+end
+
+glyph U+041E
+advance 264
+baseline 384
+bearing 76 75
+arc 159 224 87 155 -99 261
+end
+
+glyph U+041F
+advance 264
+baseline 384
+bearing 76 79
+line 80 383 80 86
+line 80 86 239 86
+line 239 86 239 383
+end
+
+glyph U+0420
+advance 264
+baseline 384
+bearing 90 70
+line 94 85 210 85
+arc 170 159 79 79 -60 101
+line 152 236 94 236
+line 94 236 94 85
+line 94 236 94 383
+end
+
+glyph U+0421
+advance 264
+baseline 384
+bearing 81 63
+arc 185 168 94 94 -35 -164
+line 88 142 88 232
+line 88 232 88 317
+arc 185 275 97 97 154 41
+end
+
+glyph U+0422
+advance 264
+baseline 384
+bearing 38 37
+line 38 83 158 83
+line 158 83 283 83
+line 158 83 158 383
+end
+
+glyph U+0423
+advance 264
+baseline 384
+bearing 55 46
+line 274 70 239 91
+line 239 91 161 259
+line 69 70 69 91
+line 69 91 161 259
+line 161 259 161 324
+arc 81 321 67 46 3 98
+end
+
+glyph U+0424
+advance 264
+baseline 384
+bearing 62 66
+line 157 64 157 111
+line 157 111 100 111
+line 100 111 70 160
+line 70 160 70 245
+arc 136 257 68 77 -171 -286
+arc 179 161 67 55 -108 -29
+line 237 134 254 226
+arc 183 251 70 84 -16 109
+line 157 111 157 334
+line 157 334 157 383
+end
+
+glyph U+0425
+advance 264
+baseline 384
+bearing 33 34
+line 50 67 84 88
+line 84 88 162 206
+line 277 67 243 88
+line 243 88 162 206
+line 162 206 162 223
+line 162 223 205 281
+line 205 281 277 377
+line 162 223 50 377
+line 50 377 33 377
+end
+
+glyph U+0426
+advance 264
+baseline 384
+bearing 65 59
+line 229 64 229 364
+line 68 64 68 364
+line 68 364 229 364
+arc 244 410 20 55 -130 39
+end
+
+glyph U+0427
+advance 264
+baseline 384
+bearing 76 79
+line 241 64 241 227
+line 79 64 79 199
+arc 122 198 39 39 179 85
+line 125 227 213 227
+line 213 227 241 227
+line 241 227 241 383
+end
+
+glyph U+0428
+advance 264
+baseline 384
+bearing 71 75
+line 75 64 75 365
+line 75 365 158 365
+line 158 64 158 365
+line 242 64 242 365
+line 242 365 158 365
+end
+
+glyph U+0429
+advance 264
+baseline 384
+bearing 60 54
+line 63 64 63 365
+line 63 365 147 365
+line 147 64 147 365
+line 234 64 234 365
+line 147 365 234 365
+arc 249 410 19 54 -134 39
+end
+
+glyph U+042A
+advance 264
+baseline 384
+bearing 34 73
+line 34 87 115 87
+line 115 87 115 212
+arc 166 287 84 80 -119 95
+line 158 365 115 365
+line 115 365 115 212
+end
+
+glyph U+042B
+advance 264
+baseline 384
+bearing 62 70
+line 250 64 250 383
+line 66 64 66 213
+line 66 213 141 213
+arc 98 287 80 80 -58 92
+line 94 365 66 365
+line 66 365 66 213
+end
+
+glyph U+042C
+advance 264
+baseline 384
+bearing 90 73
+line 93 64 93 213
+line 93 213 211 213
+arc 171 287 79 79 -60 99
+line 156 365 93 365
+line 93 365 93 213
+end
+
+glyph U+042D
+advance 264
+baseline 384
+bearing 58 84
+arc 130 198 101 126 -140 10
+line 233 222 78 222
+arc 129 252 104 122 -13 133
+end
+
+glyph U+042E
+advance 264
+baseline 384
+bearing 60 63
+line 60 64 60 225
+arc 193 224 66 155 -180 180
+line 129 225 60 225
+line 60 225 60 383
+end
+
+glyph U+042F
+advance 264
+baseline 384
+bearing 46 73
+line 52 156 83 156
+arc 125 172 42 80 -169 -96
+line 115 88 202 88
+line 202 88 247 88
+line 247 88 247 228
+arc 146 149 63 79 175 95
+line 247 228 141 228
+line 247 228 247 381
+line 141 228 115 309
+arc 16 299 88 88 6 68
+end
+
+glyph U+0430
+advance 264
+baseline 384
+bearing 76 89
+arc 146 219 90 70 -132 23
+line 229 247 101 247
+arc 147 306 75 75 -128 -328
+line 229 247 229 334
+line 229 334 230 383
+line 229 320 211 346
+end
+
+glyph U+0431
+advance 264
+baseline 384
+bearing 69 77
+line 218 46 218 71
+line 218 71 123 87
+arc 228 166 149 112 -135 -190
+line 218 71 239 71
+arc 160 212 71 59 -97 -7
+line 230 205 230 342
+line 230 342 204 370
+line 204 370 145 370
+arc 144 322 64 48 89 173
+line 81 329 81 241
+line 81 241 81 186
+line 81 186 152 154
+end
+
+glyph U+0432
+advance 264
+baseline 384
+bearing 92 83
+arc 187 218 30 53 -17 -82
+line 197 161 94 161
+line 94 161 94 255
+line 197 202 237 202
+arc 147 206 68 56 -4 53
+line 197 255 94 255
+arc 162 314 63 58 -68 48
+line 197 360 151 360
+line 151 360 94 360
+line 94 360 94 255
+end
+
+glyph U+0433
+advance 264
+baseline 384
+bearing 103 77
+line 243 163 104 163
+line 104 163 104 383
+end
+
+glyph U+0434
+advance 264
+baseline 384
+bearing 65 68
+line 101 365 101 201
+line 101 201 101 162
+line 101 162 224 162
+line 224 162 224 365
+line 101 365 224 365
+arc 80 408 17 52 -51 -216
+line 224 365 252 365
+line 252 365 252 444
+end
+
+glyph U+0435
+advance 264
+baseline 384
+bearing 74 68
+arc 170 233 73 79 -92 12
+line 249 257 219 257
+line 219 257 81 257
+line 81 257 81 208
+arc 175 221 90 68 -169 -96
+line 81 257 81 335
+arc 176 326 84 46 177 19
+end
+
+glyph U+0436
+advance 264
+baseline 384
+bearing 43 42
+line 271 146 243 164
+line 243 164 202 255
+line 157 146 157 255
+line 115 255 157 255
+line 115 255 88 306
+line 88 306 54 376
+line 202 255 157 255
+line 202 255 202 255
+line 202 255 271 376
+line 157 255 157 376
+line 76 166 115 255
+line 49 145 76 166
+end
+
+glyph U+0437
+advance 264
+baseline 384
+bearing 74 65
+line 82 182 82 162
+line 82 162 191 162
+arc 165 203 63 48 -61 69
+line 191 252 114 252
+arc 181 310 50 50 -83 1
+line 234 313 255 313
+arc 190 316 43 47 -2 85
+line 191 362 114 362
+line 114 362 82 362
+line 82 362 82 343
+end
+
+glyph U+0438
+advance 264
+baseline 384
+bearing 90 89
+line 93 144 93 333
+line 228 144 228 189
+line 228 189 191 213
+line 191 213 116 333
+line 116 333 93 333
+line 228 189 228 383
+line 93 333 93 383
+end
+
+glyph U+0439
+advance 264
+baseline 384
+bearing 90 89
+arc 159 8 68 79 23 151
+line 94 144 94 333
+line 228 144 228 189
+line 228 189 205 189
+line 205 189 116 333
+line 116 333 94 333
+line 228 189 228 383
+line 94 333 94 383
+end
+
+glyph U+043A
+advance 264
+baseline 384
+bearing 99 38
+line 271 145 216 172
+line 216 172 159 243
+line 99 145 99 262
+line 159 243 99 262
+line 159 243 271 379
+line 99 262 99 379
+end
+
+glyph U+043B
+advance 264
+baseline 384
+bearing 34 89
+line 228 383 228 163
+line 228 163 104 163
+line 104 163 104 317
+arc 49 322 46 45 -6 105
+end
+
+glyph U+043C
+advance 264
+baseline 384
+bearing 60 59
+line 64 144 65 383
+line 64 202 95 223
+line 95 223 160 310
+line 160 310 224 224
+line 224 224 251 203
+line 251 144 251 383
+end
+
+glyph U+043D
+advance 264
+baseline 384
+bearing 90 89
+line 90 144 90 256
+line 231 144 231 256
+line 231 256 90 256
+line 231 256 231 383
+line 90 256 90 383
+end
+
+glyph U+043E
+advance 264
+baseline 384
+bearing 76 79
+arc 159 264 84 113 -93 267
+end
+
+glyph U+043F
+advance 264
+baseline 384
+bearing 90 89
+line 228 383 228 162
+line 228 162 90 162
+line 90 162 90 383
+end
+
+glyph U+0440
+advance 264
+baseline 384
+bearing 87 77
+line 92 144 92 191
+arc 166 214 70 59 -160 1
+arc 166 270 80 105 -31 144
+line 92 191 92 337
+line 92 337 92 475
+end
+
+glyph U+0441
+advance 264
+baseline 384
+bearing 90 66
+arc 185 264 96 112 -40 -318
+end
+
+glyph U+0442
+advance 264
+baseline 384
+bearing 78 72
+line 78 163 161 163
+line 248 163 161 163
+line 161 163 161 383
+end
+
+glyph U+0443
+advance 264
+baseline 384
+bearing 55 46
+line 274 150 244 171
+line 244 171 159 351
+line 69 150 69 171
+line 69 171 159 351
+line 159 351 159 428
+line 159 428 114 456
+line 114 456 69 456
+end
+
+glyph U+0444
+advance 264
+baseline 384
+bearing 69 73
+line 156 50 156 155
+arc 147 216 71 61 -83 -154
+line 76 189 76 279
+arc 137 293 66 79 -170 -284
+arc 173 211 67 56 -105 -1
+line 243 210 243 300
+arc 177 306 66 67 -5 105
+line 156 155 156 373
+line 156 373 156 475
+end
+
+glyph U+0445
+advance 264
+baseline 384
+bearing 47 47
+line 51 147 95 168
+line 95 168 161 253
+line 263 147 227 168
+line 227 168 161 253
+line 161 253 161 269
+line 161 269 95 342
+arc 43 322 57 57 20 82
+line 161 269 263 377
+end
+
+glyph U+0446
+advance 264
+baseline 384
+bearing 74 73
+line 77 144 77 363
+line 77 363 215 363
+line 215 144 215 363
+arc 228 399 19 51 -134 40
+end
+
+glyph U+0447
+advance 264
+baseline 384
+bearing 90 89
+line 95 144 95 269
+line 95 269 135 269
+line 135 269 231 269
+line 231 144 231 269
+line 231 269 231 383
+end
+
+glyph U+0448
+advance 264
+baseline 384
+bearing 74 73
+line 77 144 77 364
+line 77 364 161 364
+line 161 144 161 364
+line 244 144 244 364
+line 244 364 161 364
+end
+
+glyph U+0449
+advance 264
+baseline 384
+bearing 65 50
+line 68 144 68 366
+line 68 366 151 366
+line 151 144 151 366
+line 238 144 238 366
+line 151 366 238 366
+line 238 366 270 366
+line 270 366 270 446
+end
+
+glyph U+044A
+advance 264
+baseline 384
+bearing 34 66
+line 34 163 112 163
+line 112 163 112 256
+arc 166 313 91 61 -115 61
+line 207 363 112 363
+line 112 363 112 256
+end
+
+glyph U+044B
+advance 264
+baseline 384
+bearing 69 73
+line 72 144 72 257
+line 247 144 247 383
+arc 97 297 82 42 -110 16
+line 72 257 72 363
+line 72 363 157 363
+arc 151 318 28 40 78 -4
+line 179 312 205 312
+end
+
+glyph U+044C
+advance 264
+baseline 384
+bearing 90 84
+line 95 144 95 256
+arc 148 313 92 61 -115 61
+line 189 363 95 363
+line 95 363 95 256
+end
+
+glyph U+044D
+advance 264
+baseline 384
+bearing 71 89
+arc 140 245 91 92 -144 5
+line 229 256 98 256
+line 229 256 229 332
+arc 140 323 77 50 4 164
+end
+
+glyph U+044E
+advance 264
+baseline 384
+bearing 65 63
+line 65 144 65 263
+arc 196 264 62 110 -179 181
+line 133 263 65 263
+line 65 263 65 383
+end
+
+glyph U+044F
+advance 264
+baseline 384
+bearing 69 105
+line 214 270 214 161
+arc 172 216 80 59 -63 -243
+line 214 270 137 270
+line 214 270 214 381
+line 137 270 94 362
+line 94 362 69 381
+end
+
+glyph U+0451
+advance 264
+baseline 384
+bearing 74 68
+arc 124 90 11 11 0 360
+arc 206 90 11 11 0 360
+arc 170 233 73 79 -92 12
+line 249 257 219 257
+line 219 257 81 257
+line 81 257 81 208
+arc 175 221 90 68 -169 -96
+line 81 257 81 335
+arc 176 326 84 46 177 19
+end
+
+glyph U+2013
+advance 264
+baseline 384
+bearing 27 28
+line 27 264 292 264
+end
+
+glyph U+2014
+advance 264
+baseline 384
+bearing 27 28
+line 27 264 292 264
+end
+
+glyph U+2018
+advance 264
+baseline 384
+bearing 128 119
+line 201 56 180 70
+line 180 70 150 150
+line 150 150 128 150
+end
+
+glyph U+2019
+advance 264
+baseline 384
+bearing 130 118
+line 202 81 170 81
+line 170 81 139 166
+end
+
+glyph U+201C
+advance 264
+baseline 384
+bearing 73 74
+line 147 54 125 73
+arc 74 103 46 46 -31 87
+line 246 54 224 73
+arc 291 141 91 91 -135 -187
+line 192 152 171 152
+end
+
+glyph U+201D
+advance 264
+baseline 384
+bearing 75 74
+line 246 79 216 79
+arc 101 90 111 111 -4 48
+line 147 79 115 79
+arc 7 94 106 106 -6 47
+end
+
+glyph U+2026
+advance 264
+baseline 384
+bearing 74 73
+arc 74 349 11 11 0 360
+arc 161 349 11 11 0 360
+arc 247 349 11 11 0 360
+end
+
+glyph U+2116
+advance 264
+baseline 384
+bearing 44 31
+line 217 96 171 96
+line 171 96 171 131
+line 171 131 171 336
+line 78 64 78 96
+line 78 96 78 131
+line 78 131 78 336
+line 78 336 44 377
+line 78 96 108 131
+line 108 131 145 336
+line 145 336 171 336
+line 171 336 171 377
+line 217 377 289 377
+arc 251 273 25 44 -101 259
+end
+
+glyph U+2190
+advance 264
+baseline 384
+bearing 43 42
+line 99 195 99 224
+line 99 224 76 264
+line 43 264 76 264
+line 76 264 278 264
+arc 117 282 38 38 -156 -254
+end
+
+glyph U+2191
+advance 264
+baseline 384
+bearing 108 107
+arc 149 224 65 44 -82 1
+arc 172 224 65 43 -102 -185
+line 158 182 158 383
+end
+
+glyph U+2192
+advance 264
+baseline 384
+bearing 43 42
+line 199 216 225 216
+line 225 216 247 262
+line 247 262 43 262
+line 247 262 278 262
+arc 204 235 48 82 20 93
+end
+
+glyph U+2193
+advance 264
+baseline 384
+bearing 108 107
+line 159 149 159 354
+line 115 302 115 330
+line 115 330 159 354
+arc 137 308 76 48 -4 73
+end
+
+glyph U+2202
+advance 264
+baseline 384
+bearing 87 86
+arc 155 290 72 86 -93 267
+arc 155 216 72 96 -150 26
+end
+
+glyph U+2211
+advance 264
+baseline 384
+bearing 59 60
+line 59 73 83 73
+line 83 73 258 73
+line 83 73 108 129
+line 108 129 188 261
+line 188 261 210 261
+line 188 261 83 461
+line 83 461 59 461
+line 83 461 258 461
+end
+
+glyph U+2212
+advance 264
+baseline 384
+bearing 47 46
+line 47 248 274 248
+end
+glyph U+221A
+advance 264
+baseline 384
+bearing 43 40
+line 280 40 257 40
+line 257 40 149 349
+line 93 181 93 205
+line 93 205 50 205
+line 93 205 149 349
+line 50 205 50 225
+line 149 349 149 393
+end
+
+glyph U+221E
+advance 264
+baseline 384
+bearing 51 50
+arc 219 248 52 65 -178 182
+arc 100 248 53 64 -1 -361
+line 161 237 161 266
+end
+
+glyph U+222B
+advance 264
+baseline 384
+bearing 59 58
+arc 215 91 73 73 -54 -130
+line 159 37 159 129
+line 159 129 159 432
+arc 109 385 62 62 44 131
+end
+glyph U+2248
+advance 264
+baseline 384
+bearing 49 50
+arc 222 186 46 31 -4 98
+line 218 218 134 199
+arc 110 236 61 42 -63 -177
+arc 217 260 53 39 -1 87
+line 218 298 134 277
+arc 112 311 62 36 -71 -185
+end
+
+glyph U+2260
+advance 264
+baseline 384
+bearing 47 46
+arc 206 148 34 34 -40 83
+line 211 203 172 203
+line 211 203 274 203
+line 47 203 172 203
+arc 133 236 37 37 -37 79
+line 143 289 108 289
+line 143 289 274 289
+line 47 289 108 289
+arc 66 314 39 39 -28 74
+end
+
+glyph U+2264
+advance 264
+baseline 384
+bearing 47 46
+line 268 154 245 179
+line 245 179 82 237
+line 47 237 82 237
+line 82 237 108 259
+line 108 259 268 310
+line 268 310 268 328
+line 47 367 268 367
+end
+
+glyph U+2265
+advance 264
+baseline 384
+bearing 47 46
+line 58 154 58 177
+line 58 177 231 235
+line 231 235 274 235
+line 231 235 209 261
+line 209 261 58 309
+line 58 309 58 328
+line 58 367 274 367
+end
+
+glyph U+2300
+advance 264
+baseline 384
+bearing 43 45
+arc 159 224 87 155 0 360
+line 74 309 244 139
+end
+
+glyph U+25CB
+advance 264
+baseline 384
+bearing 39 43
+arc 159 269 118 118 -101 259
+end
+
+glyph U+25CF
+advance 264
+baseline 384
+bearing 31 31
+arc 160 270 129 129 0 360
+arc 160 270 126 126 0 360
+arc 160 270 124 124 0 360
+arc 160 270 121 121 0 360
+arc 160 270 119 119 0 360
+arc 160 270 116 116 0 360
+arc 160 270 114 114 0 360
+arc 160 270 111 111 0 360
+arc 160 270 109 109 0 360
+arc 160 270 106 106 0 360
+arc 160 270 104 104 0 360
+arc 160 270 101 101 0 360
+arc 160 270 99 99 0 360
+arc 160 270 96 96 0 360
+arc 160 270 94 94 0 360
+arc 160 270 91 91 0 360
+arc 160 270 89 89 0 360
+arc 160 270 86 86 0 360
+arc 160 270 84 84 0 360
+arc 160 270 81 81 0 360
+arc 160 270 79 79 0 360
+arc 160 270 76 76 0 360
+arc 160 270 74 74 0 360
+arc 160 270 71 71 0 360
+arc 160 270 69 69 0 360
+arc 160 270 66 66 0 360
+arc 160 270 64 64 0 360
+arc 160 270 61 61 0 360
+arc 160 270 59 59 0 360
+arc 160 270 56 56 0 360
+arc 160 270 54 54 0 360
+arc 160 270 51 51 0 360
+arc 160 270 49 49 0 360
+arc 160 270 46 46 0 360
+arc 160 270 44 44 0 360
+arc 160 270 41 41 0 360
+arc 160 270 39 39 0 360
+arc 160 270 36 36 0 360
+arc 160 270 34 34 0 360
+arc 160 270 31 31 0 360
+arc 160 270 29 29 0 360
+arc 160 270 26 26 0 360
+arc 160 270 24 24 0 360
+arc 160 270 21 21 0 360
+arc 160 270 19 19 0 360
+arc 160 270 16 16 0 360
+arc 160 270 14 14 0 360
+arc 160 270 11 11 0 360
+arc 160 270 9 9 0 360
+arc 160 270 6 6 0 360
+arc 160 270 4 4 0 360
+arc 160 270 1 1 0 360
+line 160 270 160 270
+end
+
